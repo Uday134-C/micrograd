@@ -1,6 +1,8 @@
 import random
 from micrograd.engine import Value
 
+#jjugyg
+
 class Module:
 
     def zero_grad(self):
